@@ -9,15 +9,52 @@
 | Week | Tier | Parts funding |
 | --- | --- | --- |
 | Week 1 | Tier 3 | $100.00 |
+# Custom nRF52840 Keyboard — Complete Parts List
 
-_No parts listed yet._
+**Budget target:** S$100  
+**Design:** Custom KiCad keyboard + 4×4 macropad  
+**Colours:** Black case, purple keycaps  
+**Switches:** Mechanical, hot-swappable  
+**Controller:** nRF52840 Bluetooth  
+**Assembly:** Minimise soldering; reserve money for a soldering iron if needed.
 
-Part	Quantity	Budget target	Link
-Custom PCB	1	S$15–25*	JLCPCB
-Hot-swap sockets (optional)	80–90	S$8–12	Kailh sockets
-Stabilizers for space bar, Shift, Enter and Backspace	1 set	S$5–8	Search on Shopee
-OLED display	1	S$4–9	Shopee
-Rotary encoder and knob	1	S$2–6	Shopee
-RGB LEDs	As designed	S$4–8	WS2812B LEDs
-USB data cable	1	S$3–5	Shopee
-Wires, screws and standoffs	1 set	S$4–7	Electronics components
+## 1. Main Components
+
+| # | Component | Quantity | Estimated Cost (SGD) | Purchase Link | Required? |
+|---:|---|---:|---:|---|---|
+| 1 | nRF52840 controller board | 1 | $6–15 | [Shopee](https://shopee.sg/search?keyword=nRF52840%20nice%20nano%20controller) | Yes |
+| 2 | Custom keyboard PCB | 1 design | $15–30+ | [JLCPCB](https://jlcpcb.com/) | Yes |
+| 3 | Black keyboard case | 1 | $10–20+ | [Shopee](https://shopee.sg/search?keyword=black%20DIY%20keyboard%20case) | Yes |
+| 4 | Matching keyboard plate | 1 | $5–15+ | [Shopee](https://shopee.sg/search?keyword=custom%20keyboard%20plate) | Yes |
+| 5 | Purple keycap set | 1 set | $16–24 | [Shopee](https://shopee.sg/search?keyword=purple%20PBT%20keycaps) | Yes |
+| 6 | MX-compatible switches | Enough for every key | $15–25 | [Shopee](https://shopee.sg/search?keyword=MX%20mechanical%20keyboard%20switches) | Yes |
+| 7 | Hot-swap sockets | One per switch | $5–10 | [Shopee](https://shopee.sg/search?keyword=Kailh%20MX%20hot%20swap%20sockets) | Yes, unless installed |
+| 8 | Matrix diodes | One per switch | $2–4 | [Shopee](https://shopee.sg/search?keyword=1N4148%20diodes) | Yes, unless installed |
+| 9 | Stabilizer set | 1 set | $5–8 | [Shopee](https://shopee.sg/search?keyword=MX%20keyboard%20stabilizer) | For large keys |
+| 10 | Macropad PCB or separate assembled macropad | 1 | $10–20+ | [Shopee](https://shopee.sg/search?keyword=4x4%20hot%20swap%20macropad%20PCB) | If separate |
+| 11 | USB data cable | 1 | $3–5 | [Shopee](https://shopee.sg/search?keyword=USB%20data%20cable) | Yes |
+| 12 | Controller sockets and headers | 1 set | $2–5 | [Shopee](https://shopee.sg/search?keyword=keyboard%20controller%20socket%20headers) | If needed |
+| 13 | Screws and standoffs | 1 set | $2–5 | [Shopee](https://shopee.sg/search?keyword=M2%20screws%20standoffs) | Yes |
+| 14 | Connecting wires and plugs | 1 set | $3–5 | [Shopee](https://shopee.sg/search?keyword=JST%20connectors%20wires) | If needed |
+| 15 | Basic soldering iron | 1 | $8–12 | [Shopee](https://shopee.sg/search?keyword=basic%20soldering%20iron) | Backup/tool |
+| 16 | Shipping allowance | — | $5–15+ | Check checkout | Yes |
+
+## 2. Optional Features
+
+| Component | Quantity | Estimated Cost (SGD) | Link |
+|---|---:|---:|---|
+| OLED display | 1 | $4–9 | [Shopee](https://shopee.sg/search?keyword=I2C%20OLED%20display) |
+| Rotary encoder and knob | 1 | $2–6 | [Shopee](https://shopee.sg/search?keyword=EC11%20rotary%20encoder%20knob) |
+| Addressable RGB LEDs | As required | $3–8 | [Shopee](https://shopee.sg/search?keyword=WS2812B%20LED) |
+| LiPo battery | 1 | $5–12 | [Shopee](https://shopee.sg/search?keyword=3.7V%20LiPo%20battery) |
+| Battery connector | 1 | $1–3 | [Shopee](https://shopee.sg/search?keyword=JST%20battery%20connector) |
+
+## 3. Key and Switch Count
+
+| Section | Planned Quantity |
+|---|---:|
+| Main keyboard | Count from final layout |
+| 4×4 macropad | 16 keys |
+| Arrow keys | 4 keys, if not already counted |
+| Spare switches | 4–5 recommended |
+| Total switches to buy | Main keyboard + 16 macropad keys + spares, minus any overlapping or included switches |
