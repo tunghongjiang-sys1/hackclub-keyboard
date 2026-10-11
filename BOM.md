@@ -8,6 +8,16 @@
 
 | Week | Tier | Parts funding |
 | --- | --- | --- |
-| Week 1 | Tier 2 | $65.00 |
+| Week 1 | Tier 3 | $100.00 |
 
 _No parts listed yet._
+
+Part	Quantity	Budget target	Link
+Custom PCB	1	S$15–25*	JLCPCB
+Hot-swap sockets (optional)	80–90	S$8–12	Kailh sockets
+Stabilizers for space bar, Shift, Enter and Backspace	1 set	S$5–8	Search on Shopee
+OLED display	1	S$4–9	Shopee
+Rotary encoder and knob	1	S$2–6	Shopee
+RGB LEDs	As designed	S$4–8	WS2812B LEDs
+USB data cable	1	S$3–5	Shopee
+Wires, screws and standoffs	1 set	S$4–7	Electronics components
