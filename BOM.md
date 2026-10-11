@@ -25,12 +25,11 @@
 | [Controller sockets and headers](https://shopee.sg/search?keyword=keyboard%20controller%20socket%20headers) | If needed for plug-in controller mounting | 1 | $2.00 | $2.00 | [Shopee](https://shopee.sg/search?keyword=keyboard%20controller%20socket%20headers) |
 | [Screws and standoffs](https://shopee.sg/search?keyword=M2%20screws%20standoffs) | Must fit case and PCB | 1 | $2.00 | $2.00 | [Shopee](https://shopee.sg/search?keyword=M2%20screws%20standoffs) |
 | [Connecting wires and plug connectors](https://shopee.sg/search?keyword=JST%20connectors%20wires) | Only if required by the design | 1 | $2.00 | $2.00 | [Shopee](https://shopee.sg/search?keyword=JST%20connectors%20wires) |
-| [Basic soldering iron](https://shopee.sg/search?keyword=basic%20soldering%20iron) | For assembly/repairs if sockets, diodes or headers are not pre-installed | 1 | $6.00 | $6.00 | [Shopee](https://shopee.sg/search?keyword=basic%20soldering%20iron) |
 | [RGB](https://shopee.sg/search?keyword=WS2812B%20RGB%20LED%20SMD) | looks | 1 | $3.20 | $3.20 | [shopee](https://shopee.sg/search?keyword=WS2812B%20RGB%20LED%20SMD) |
 | [oled](https://shopee.sg/search?keyword=0.91%20inch%20I2C%20OLED%20128x32) | screen | 1 | $4.00 | $4.00 | [shopee](https://shopee.sg/search?keyword=0.91%20inch%20I2C%20OLED%20128x32) |
 | [knob](https://shopee.sg/search?keyword=EC11%20rotary%20encoder%20with%20knob) | volume | 1 | $2.50 | $2.50 | [shopee](https://shopee.sg/search?keyword=EC11%20rotary%20encoder%20with%20knob) |
-| **Parts subtotal** | — | — | — | **$109.39** | — |
+| **Parts subtotal** | — | — | — | **$103.39** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$109.39** | — |
+| **Total** | — | — | — | **$103.39** | — |
 
-**$9.39 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$3.39 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
