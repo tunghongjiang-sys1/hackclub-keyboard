@@ -29,7 +29,7 @@
 | [Basic soldering iron](https://shopee.sg/search?keyword=basic%20soldering%20iron) | For assembly/repairs if sockets, diodes or headers are not pre-installed | 1 | $0.00 | $0.00 | [Shopee](https://shopee.sg/search?keyword=basic%20soldering%20iron) |
 | All listed required parts (no battery; optional OLED/RGB/encoder excluded) | Planning estimate only; actual cost may be higher. Includes a separate macropad budget. | 1 | $0.00 | $0.00 | — |
 | **Parts subtotal** | — | — | — | **$0.00** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$0.00** | — |
+| **Tax & shipping** | — | — | — | **$100.00** | — |
+| **Total** | — | — | — | **$100.00** | — |
 
-$100.00 left of the tier's funding.
+$0.00 left of the tier's funding.
