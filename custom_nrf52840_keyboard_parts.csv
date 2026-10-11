@@ -1,0 +1,18 @@
+﻿Category,Part,Quantity,Min price (SGD),Max price (SGD),Purchase link,Notes
+Main components,nRF52840 controller board,1,6,15,https://shopee.sg/search?keyword=nRF52840%20nice%20nano%20controller,Check firmware support and available GPIO pins
+Main components,Custom keyboard PCB,1 design/order,15,30,https://jlcpcb.com/,Must match KiCad schematic/layout; assembly may cost extra
+Main components,Black keyboard case,1,10,20,https://shopee.sg/search?keyword=black%20DIY%20keyboard%20case,Must fit custom PCB and mounting holes
+Main components,Matching switch plate,1,5,15,https://shopee.sg/search?keyword=custom%20keyboard%20plate,Must match switch layout and case
+Main components,Purple keycap set,1 set,16,24,https://shopee.sg/search?keyword=purple%20PBT%20keycaps,"Check spacebar, modifier and macropad key sizes"
+Main components,MX-compatible mechanical switches,Main keyboard + 16 macropad keys + 4-5 spares,15,25,https://shopee.sg/search?keyword=MX%20mechanical%20keyboard%20switches,Reduce quantity/cost if switches are included with a kit
+Main components,Hot-swap sockets,One per switch,5,10,https://shopee.sg/search?keyword=Kailh%20MX%20hot%20swap%20sockets,Only needed if not factory-installed; installing them usually requires soldering
+Main components,Matrix diodes,One per switch,2,4,https://shopee.sg/search?keyword=1N4148%20diodes,Only needed if not installed on PCB
+Main components,Keyboard stabilizers,1 set,5,8,https://shopee.sg/search?keyword=MX%20keyboard%20stabilizer,For spacebar and other large keys
+Macropad,4x4 macropad PCB or assembled hot-swap macropad,1,10,20,https://shopee.sg/search?keyword=4x4%20hot%20swap%20macropad%20PCB,"Confirm if switches, keycaps, controller and case are included"
+Accessories,USB data cable,1,3,5,https://shopee.sg/search?keyword=USB%20data%20cable,Match controller connector; may already be included
+Accessories,Controller sockets and headers,1 set,2,5,https://shopee.sg/search?keyword=keyboard%20controller%20socket%20headers,If needed for plug-in controller mounting
+Accessories,Screws and standoffs,1 set,2,5,https://shopee.sg/search?keyword=M2%20screws%20standoffs,Must fit case and PCB
+Accessories,Connecting wires and plug connectors,1 set,3,5,https://shopee.sg/search?keyword=JST%20connectors%20wires,Only if required by the design
+Tools,Basic soldering iron,1,8,12,https://shopee.sg/search?keyword=basic%20soldering%20iron,"For assembly/repairs if sockets, diodes or headers are not pre-installed"
+Shipping,Shipping allowance,—,5,15,,"Check Singapore stock, seller minimum spend and free-shipping vouchers"
+TOTAL ESTIMATE,All listed required parts (no battery; optional OLED/RGB/encoder excluded),—,100,193,,Planning estimate only; actual cost may be higher. Includes a separate macropad budget.
