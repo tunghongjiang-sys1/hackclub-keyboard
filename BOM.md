@@ -17,7 +17,6 @@
 | [Matching switch plate](https://shopee.sg/search?keyword=custom%20keyboard%20plate) | Must match switch layout and case | 1 | $10.00 | $10.00 | [Shopee](https://shopee.sg/search?keyword=custom%20keyboard%20plate) |
 | [Purple keycap set](https://shopee.sg/search?keyword=purple%20PBT%20keycaps) | Check spacebar, modifier and macropad key sizes | 1 | $19.09 | $19.09 | [Shopee](https://shopee.sg/search?keyword=purple%20PBT%20keycaps) |
 | [MX-compatible mechanical switches](https://shopee.sg/search?keyword=MX%20mechanical%20keyboard%20switches) | Reduce quantity/cost if switches are included with a kit | 16 | $0.34 | $5.44 | [Shopee](https://shopee.sg/search?keyword=MX%20mechanical%20keyboard%20switches) |
-| [Hot-swap sockets](https://shopee.sg/search?keyword=Kailh%20MX%20hot%20swap%20sockets) | Only needed if not factory-installed; installing them usually requires soldering | 1 | $2.40 | $2.40 | [Shopee](https://shopee.sg/search?keyword=Kailh%20MX%20hot%20swap%20sockets) |
 | [Keyboard stabilizers](https://shopee.sg/search?keyword=MX%20keyboard%20stabilizer) | For spacebar and other large keys | 1 | $5.00 | $5.00 | [Shopee](https://shopee.sg/search?keyword=MX%20keyboard%20stabilizer) |
 | [4x4 macropad PCB or assembled hot-swap macropad](https://shopee.sg/search?keyword=4x4%20hot%20swap%20macropad%20PCB) | Confirm if switches, keycaps, controller and case are included | 1 | $15.00 | $15.00 | [Shopee](https://shopee.sg/search?keyword=4x4%20hot%20swap%20macropad%20PCB) |
 | [USB data cable](https://shopee.sg/search?keyword=USB%20data%20cable) | Match controller connector; may already be included | 1 | $3.00 | $3.00 | [Shopee](https://shopee.sg/search?keyword=USB%20data%20cable) |
@@ -27,8 +26,8 @@
 | [RGB](https://shopee.sg/search?keyword=WS2812B%20RGB%20LED%20SMD) | looks | 1 | $3.20 | $3.20 | [shopee](https://shopee.sg/search?keyword=WS2812B%20RGB%20LED%20SMD) |
 | [oled](https://shopee.sg/search?keyword=0.91%20inch%20I2C%20OLED%20128x32) | screen | 1 | $4.00 | $4.00 | [shopee](https://shopee.sg/search?keyword=0.91%20inch%20I2C%20OLED%20128x32) |
 | [knob](https://shopee.sg/search?keyword=EC11%20rotary%20encoder%20with%20knob) | volume | 1 | $2.50 | $2.50 | [shopee](https://shopee.sg/search?keyword=EC11%20rotary%20encoder%20with%20knob) |
-| **Parts subtotal** | — | — | — | **$101.15** | — |
+| **Parts subtotal** | — | — | — | **$98.75** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$101.15** | — |
+| **Total** | — | — | — | **$98.75** | — |
 
-**$1.15 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$1.25 left of the tier's funding.
