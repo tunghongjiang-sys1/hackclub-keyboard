@@ -26,7 +26,6 @@
 | [Screws and standoffs](https://shopee.sg/search?keyword=M2%20screws%20standoffs) | Must fit case and PCB | 1 | $2.00 | $2.00 | [Shopee](https://shopee.sg/search?keyword=M2%20screws%20standoffs) |
 | [Connecting wires and plug connectors](https://shopee.sg/search?keyword=JST%20connectors%20wires) | Only if required by the design | 1 | $2.00 | $2.00 | [Shopee](https://shopee.sg/search?keyword=JST%20connectors%20wires) |
 | [Basic soldering iron](https://shopee.sg/search?keyword=basic%20soldering%20iron) | For assembly/repairs if sockets, diodes or headers are not pre-installed | 1 | $6.00 | $6.00 | [Shopee](https://shopee.sg/search?keyword=basic%20soldering%20iron) |
-| All listed required parts (no battery; optional OLED/RGB/encoder excluded) | Planning estimate only; actual cost may be higher. Includes a separate macropad budget. | 1 | $0.00 | $0.00 | — |
 | **Parts subtotal** | — | — | — | **$99.69** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
 | **Total** | — | — | — | **$99.69** | — |
