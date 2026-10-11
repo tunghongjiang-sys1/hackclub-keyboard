@@ -11,13 +11,6 @@
 | Week 1 | Tier 3 | $100.00 |
 # Custom nRF52840 Keyboard — Complete Parts List
 
-**Budget target:** S$100  
-**Design:** Custom KiCad keyboard + 4×4 macropad  
-**Colours:** Black case, purple keycaps  
-**Switches:** Mechanical, hot-swappable  
-**Controller:** nRF52840 Bluetooth  
-**Assembly:** Minimise soldering; reserve money for a soldering iron if needed.
-
 ## 1. Main Components
 
 | # | Component | Quantity | Estimated Cost (SGD) | Purchase Link | Required? |
